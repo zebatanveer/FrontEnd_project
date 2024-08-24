@@ -1,0 +1,92 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "name": "Aarav Kumar",
+      "description": "Software Developer",
+      "photo": "https://i.pngimg.me/thumb/f/720/c3f2c592f9.jpg",
+      "latitude": 28.6139,
+      "longitude": 77.2090,
+      "location": "New Delhi, India",
+      "contactInfo": "aarav.kumar@example.com",
+      "interests": ["Coding", "Music"]
+    },
+    {
+      "id": 2,
+      "name": "Neha Sharma",
+      "description": "Graphic Designer",
+      "photo": "https://i.pinimg.com/736x/54/8a/65/548a659c2b06a877516d3c998f5b0939.jpg",
+      "latitude": 19.0760,
+      "longitude": 72.8777,
+      "location": "Mumbai, India",
+      "contactInfo": "neha.sharma@example.com",
+      "interests": ["Art", "Traveling"]
+    },
+    {
+      "id": 3,
+      "name": "Ravi Patel",
+      "description": "Data Analyst",
+      "photo": "https://i.pngimg.me/thumb/f/720/c3f2c592f9.jpg",
+      "latitude": 22.3072,
+      "longitude": 73.1812,
+      "location": "Vadodara, India",
+      "contactInfo": "ravi.patel@example.com",
+      "interests": ["Data Science", "Cricket"]
+    },
+    {
+      "id": 4,
+      "name": "Priya Mehta",
+      "description": "Content Writer",
+      "photo": "https://i.pinimg.com/736x/54/8a/65/548a659c2b06a877516d3c998f5b0939.jpg",
+      "latitude": 13.0827,
+      "longitude": 80.2707,
+      "location": "Chennai, India",
+      "contactInfo": "priya.mehta@example.com",
+      "interests": ["Writing", "Reading"]
+    },
+    {
+      "id": 5,
+      "name": "Rajesh Singh",
+      "description": "Marketing Manager",
+      "photo": "https://i.pngimg.me/thumb/f/720/c3f2c592f9.jpg",
+      "latitude": 26.9124,
+      "longitude": 75.7873,
+      "location": "Jaipur, India",
+      "contactInfo": "rajesh.singh@example.com",
+      "interests": ["Marketing", "Traveling"]
+    },
+    {
+      "id": 6,
+      "name": "Anjali Gupta",
+      "description": "UX/UI Designer",
+      "photo": "https://i.pinimg.com/736x/54/8a/65/548a659c2b06a877516d3c998f5b0939.jpg",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore, India",
+      "contactInfo": "anjali.gupta@example.com",
+      "interests": ["Design", "Photography"]
+    },
+    {
+      "id": 7,
+      "name": "Suresh Nair",
+      "description": "Project Manager",
+      "photo": "https://i.pngimg.me/thumb/f/720/c3f2c592f9.jpg",
+      "latitude": 8.5241,
+      "longitude": 76.9366,
+      "location": "Thiruvananthapuram, India",
+      "contactInfo": "suresh.nair@example.com",
+      "interests": ["Management", "Trekking"]
+    },
+    {
+      "id": 8,
+      "name": "Divya Menon",
+      "description": "HR Specialist",
+      "photo": "https://i.pinimg.com/736x/54/8a/65/548a659c2b06a877516d3c998f5b0939.jpg",
+      "latitude": 18.5204,
+      "longitude": 73.8567,
+      "location": "Pune, India",
+      "contactInfo": "divya.menon@example.com",
+      "interests": ["Human Resources", "Yoga"]
+    }
+  ]
+}
